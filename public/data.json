@@ -1,0 +1,482 @@
+{
+  "metadata": {
+    "tags": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "2gmj7mnwoa4a"
+      }
+    },
+    "id": "1nYPvn4QoGsUeFpGsNNLGs",
+    "type": "Entry",
+    "createdAt": "2023-05-12T05:56:42.977Z",
+    "updatedAt": "2023-05-12T05:56:42.977Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "revision": 1,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "Mysite"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "siteName": "welcome to my site",
+    "body": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Over the past few years, IoT has become one of the most important technologies of the 21st century. Now that we can connect everyday objects—kitchen appliances, cars, thermostats, baby monitors—to the internet via embedded devices, seamless communication is possible between people, processes, and things.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "By means of low-cost computing, the cloud, big data, analytics, and mobile technologies, physical things can share and collect data with minimal human intervention. In this hyperconnected world, digital systems can record, monitor, and adjust each interaction between connected things. The physical world meets the digital world—and they cooperate.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "\n\n",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "banner": {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "2gmj7mnwoa4a"
+          }
+        },
+        "id": "5VqcWRntEpliSTtFJol0L6",
+        "type": "Asset",
+        "createdAt": "2023-05-12T05:54:57.055Z",
+        "updatedAt": "2023-05-12T05:54:57.055Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "image",
+        "description": "image des",
+        "file": {
+          "url": "//images.ctfassets.net/2gmj7mnwoa4a/5VqcWRntEpliSTtFJol0L6/666b134fc400cfcb691cb9aec2faad76/Screenshot__3_.png",
+          "details": {
+            "size": 339085,
+            "image": {
+              "width": 3600,
+              "height": 1080
+            }
+          },
+          "fileName": "Screenshot (3).png",
+          "contentType": "image/png"
+        }
+      }
+    },
+    "posts": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2gmj7mnwoa4a"
+            }
+          },
+          "id": "3qBYKt64dwTa0iq1v4rmo0",
+          "type": "Entry",
+          "createdAt": "2023-05-12T05:33:28.253Z",
+          "updatedAt": "2023-05-12T05:33:28.253Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "post"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "banner": {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "2gmj7mnwoa4a"
+                }
+              },
+              "id": "2hEhCEahIx6wK7HdTrNmAA",
+              "type": "Asset",
+              "createdAt": "2023-04-21T06:21:34.257Z",
+              "updatedAt": "2023-04-21T06:21:34.257Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "locale": "en-US"
+            },
+            "fields": {
+              "title": "MicrosoftTeams-image (2)",
+              "description": "",
+              "file": {
+                "url": "//images.ctfassets.net/2gmj7mnwoa4a/2hEhCEahIx6wK7HdTrNmAA/c8e35087dcf9eb3d1871d304054df66b/MicrosoftTeams-image__2_.png",
+                "details": {
+                  "size": 18322,
+                  "image": {
+                    "width": 474,
+                    "height": 219
+                  }
+                },
+                "fileName": "MicrosoftTeams-image (2).png",
+                "contentType": "image/jpeg"
+              }
+            }
+          },
+          "author": "Manish",
+          "published": "2007-05-10",
+          "title": "IOT TECHNOLOGY",
+          "body": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. These devices range from ordinary household objects to sophisticated industrial tools. With more than 7 billion connected IoT devices today, experts are expecting this number to grow to 10 billion by 2020 and 22 billion by 2025. Oracle has a network of ",
+                    "marks": [],
+                    "data": {}
+                  },
+                  {
+                    "nodeType": "hyperlink",
+                    "data": {
+                      "uri": "https://cloudmarketplace.oracle.com/marketplace/en_US/homePage.jspx"
+                    },
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "device partners",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  },
+                  {
+                    "nodeType": "text",
+                    "value": ".\n\n",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2gmj7mnwoa4a"
+            }
+          },
+          "id": "6eCZO1oUTeq4JbkMi99Abz",
+          "type": "Entry",
+          "createdAt": "2023-05-09T13:06:14.209Z",
+          "updatedAt": "2023-05-09T13:06:14.209Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "post"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "banner": {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "2gmj7mnwoa4a"
+                }
+              },
+              "id": "2hEhCEahIx6wK7HdTrNmAA",
+              "type": "Asset",
+              "createdAt": "2023-04-21T06:21:34.257Z",
+              "updatedAt": "2023-04-21T06:21:34.257Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "locale": "en-US"
+            },
+            "fields": {
+              "title": "MicrosoftTeams-image (2)",
+              "description": "",
+              "file": {
+                "url": "//images.ctfassets.net/2gmj7mnwoa4a/2hEhCEahIx6wK7HdTrNmAA/c8e35087dcf9eb3d1871d304054df66b/MicrosoftTeams-image__2_.png",
+                "details": {
+                  "size": 18322,
+                  "image": {
+                    "width": 474,
+                    "height": 219
+                  }
+                },
+                "fileName": "MicrosoftTeams-image (2).png",
+                "contentType": "image/jpeg"
+              }
+            }
+          },
+          "author": "Reddy",
+          "title": "Telecommunication",
+          "body": {
+            "nodeType": "document",
+            "data": {},
+            "content": [
+              {
+                "nodeType": "paragraph",
+                "data": {},
+                "content": [
+                  {
+                    "nodeType": "text",
+                    "value": "",
+                    "marks": [],
+                    "data": {}
+                  },
+                  {
+                    "nodeType": "hyperlink",
+                    "data": {
+                      "uri": "https://www.mitel.com/sitecore/service/notfound.aspx?item=web%3a%7bB5D5E4B1-EDA3-4F4A-B671-032E63246CFF%7d%40en"
+                    },
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Telecommunications",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  },
+                  {
+                    "nodeType": "text",
+                    "value": ", also known as telecom, is the exchange of information over large distances. It's a broad term that includes various sectors, but all include a transmitter and a receiver. The medium of signal transference can be via various means—fiber, electromagnetic fields, light, cable, etc.\n\nThe internet is a large example of telecoms, dwindling to smaller wide-area networks (WANs), telephone, WhatsApp messaging, emails, and broadcast networks, including radio and television.",
+                    "marks": [],
+                    "data": {}
+                  },
+                  {
+                    "nodeType": "hyperlink",
+                    "data": {
+                      "uri": "https://www.mitel.com/sitecore/service/notfound.aspx?item=web%3a%7b550CA8DA-BB13-4115-93D4-9E8604D842AA%7d%40en"
+                    },
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "video",
+                        "marks": [],
+                        "data": {}
+                      }
+                    ]
+                  },
+                  {
+                    "nodeType": "text",
+                    "value": ", data, and text are also sent back and forth to communicate.\n\nPeople generally refer to telecommunications as a product and a system and service provided by larger corporations. Telecommunications service providers provide the service that allows individuals and businesses to do everyday tasks to communicate with others.\n\n",
+                    "marks": [],
+                    "data": {}
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "2gmj7mnwoa4a"
+            }
+          },
+          "id": "48Bd523PuxZxVNslWGocdE",
+          "type": "Entry",
+          "createdAt": "2023-04-20T05:48:06.824Z",
+          "updatedAt": "2023-04-20T10:54:33.650Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 2,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "post"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "banner": {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "2gmj7mnwoa4a"
+                }
+              },
+              "id": "1nRlt0hunAq2130s5LxcSc",
+              "type": "Asset",
+              "createdAt": "2023-04-12T11:11:28.039Z",
+              "updatedAt": "2023-04-20T11:24:32.713Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 2,
+              "locale": "en-US"
+            },
+            "fields": {
+              "title": "pic",
+              "file": {
+                "url": "//images.ctfassets.net/2gmj7mnwoa4a/1nRlt0hunAq2130s5LxcSc/41d3621c2d46499f3265391ff73064d0/cc.jpg",
+                "details": {
+                  "size": 63008,
+                  "image": {
+                    "width": 960,
+                    "height": 480
+                  }
+                },
+                "fileName": "cc.jpg",
+                "contentType": "image/jpeg"
+              }
+            }
+          },
+          "author": "Vinay kumar",
+          "published": "2023-04-15",
+          "title": "Cloud Computing",
+          "body": {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "Cloud computing is on-demand access, via the internet, to computing resources—applications, servers (physical servers and virtual servers), data storage, development tools, networking capabilities, and more—hosted at a remote data center managed by a cloud services provider (or CSP). The CSP makes these resources available for a monthly subscription fee or bills them according to usage.",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          }
+        }
+      }
+    ]
+  }
+}
